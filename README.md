@@ -2,6 +2,8 @@
 
 Wearable conference id card with arduino.
 
+![ID card demo image](demo.gif)
+
 ## Electronic components
 
 - 1 Digispark attiny85
