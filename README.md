@@ -1,6 +1,6 @@
 # nx-card
 
-Wearable conference id card with arduino.
+Wearable conference badge/id card with arduino.
 
 ![ID card demo image](demo.gif)
 
